@@ -621,7 +621,8 @@ img {
   color: #ffffff;
   margin-bottom: 16px;
 }
-.subscribe-label {
+
+.subscribe-form {
   display: flex;
   gap: 24px;
 }
@@ -633,7 +634,6 @@ img {
   background-color: transparent;
   font-size: 12px;
   line-height: 1.5;
-  display: flex;
   align-items: center;
   letter-spacing: 0.04em;
   padding-left: 16px;
